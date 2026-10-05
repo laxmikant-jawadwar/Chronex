@@ -1,0 +1,32 @@
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.iml
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environments & Secrets
+.env
+*.env.local
+*.env.*
+!.env.example
+
+# Java / Maven
+target/
+*.class
+
+# Frontend / Node
+node_modules/
+dist/
+
+# Build outputs
+build/
+
+# Logs
+*.log
+
+docker-compose.yml
